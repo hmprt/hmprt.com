@@ -1,6 +1,6 @@
 ## Who am I?
-- A British computer programmer with interests in applied NLP, ontology, web3 and generative art.
-- I'm a musician, writer and serial dropout.
+- A British computer programmer with interests in applied NLP, applied ontology, symbolic systems, web3 and generative art.
+- I'm a musician, writer, founder and serial dropout.
 
 ## What am I doing at the minute?
 - Currently full-time CTO at [Atomic Search](https://atomicsear.ch), where I'm working on creating the next great general-purpose search engine.
