@@ -24,5 +24,5 @@
 - Soon
 
 ## Other links
-- [Opensea]("https://opensea.io/hmprt")
-- [Twitter]("https://twitter.com/hmprt_")
+[Opensea]("https://opensea.io/hmprt")
+[Twitter]("https://twitter.com/hmprt_")
