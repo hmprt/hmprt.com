@@ -1,5 +1,3 @@
-# hmprt
-
 ## Who am I?
 - A British computer programmer with interests in applied NLP, ontology, web3 and generative art.
 - I'm a musician, writer and serial dropout.
