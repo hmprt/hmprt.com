@@ -1,4 +1,4 @@
-singlemd --input SITE.md --output index.html --style themes/monokai.css &&
+singlemd --input SITE.md --output index.html &&
 git add * &&
 git commit -m "Updated site" &&
 git push && 
