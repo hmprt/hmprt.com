@@ -1,4 +1,4 @@
-singlemd --input SITE.md --output index.html &&
+singlemd --input SITE.md --output index.html --style style.css &&
 git add * &&
 git commit -m "Updated site" &&
 git push && 
