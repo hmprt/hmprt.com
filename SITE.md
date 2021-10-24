@@ -1,5 +1,5 @@
 ## Who am I?
-- A British computer programmer with interests in applied NLP, applied ontology, symbolic systems, web3 and generative art.
+- A British computer programmer with interests in NLP, applied ontology, symbolic systems, web3 and generative art.
 - I'm a musician, writer, founder and serial dropout.
 
 ## What am I doing at the minute?
