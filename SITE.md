@@ -1,4 +1,4 @@
-## Who am I?
+# Who am I?
 - A British computer programmer with interests in NLP, applied ontology, symbolic systems, web3 and generative art.
 - I'm a musician, writer, founder and serial dropout.
 
@@ -17,7 +17,7 @@
 - vim, eternal terminal, iTerm2, tmux, magnet
 
 ## Why is my username unpronouncable?
-- It's a strictly consontant contraction of my full name. You can pronounce it _hump-ert_
+- It's a strictly consonant contraction of my full name. You can pronounce it _hump-ert_
 - This is less a privacy concern than a stylistic one. Extensive biographic information of me is floating around on this internet, if you know where to look.
 
 ## When writing?
