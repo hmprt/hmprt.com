@@ -17,11 +17,14 @@
 - vim, eternal terminal, iTerm2, tmux, magnet
 
 ## Why is my username unpronouncable?
-- It's a strictly consonant contraction of my full name. You can pronounce it _hump-ert_
+- It's a strictly consonant contraction of my full name. You can pronounce it _hump-ert_.
 - This is less a privacy concern than a stylistic one. Extensive biographic information of me is floating around on the internet, if you know where to look.
 
 ## When writing?
 - Soon
+
+## Where am I currently?
+- Playa del Carmen, Mexico
 
 ## Other links
 [Opensea](https://opensea.io/hmprt)
