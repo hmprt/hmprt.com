@@ -18,7 +18,7 @@
 
 ## Why is my username unpronouncable?
 - It's a strictly consonant contraction of my full name. You can pronounce it _hump-ert_
-- This is less a privacy concern than a stylistic one. Extensive biographic information of me is floating around on this internet, if you know where to look.
+- This is less a privacy concern than a stylistic one. Extensive biographic information of me is floating around on the internet, if you know where to look.
 
 ## When writing?
 - Soon
