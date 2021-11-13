@@ -3,7 +3,7 @@
 - I'm also a musician, writer, founder and serial dropout.
 
 ## What am I doing at the minute?
-- Co-founder and CTO at [Atomic Search](https://atomicsear.ch), where we're currently building investor tooling for NFTs.
+- Co-founder and CTO at [Atomic Search](https://atomicsear.ch), where we're building real time terminals for NFT traders.
 - In my spare time, I work on projects for NFTs, generative art and developer tooling. You can find my [github profile](https://github.com/hmprt) here.
 
 ## What are my technical proficiencies?
