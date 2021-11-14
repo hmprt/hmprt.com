@@ -24,6 +24,7 @@
 - Soon
 
 ## Writings which inspire me
+- _Desolation Row_ by Bob Dylan
 - _Blood Meridian_ by Cormac McCarthy
 - _Sirens of Titen_, _Player Piano_, _Slaughterhouse Five_ by Kurt Vonnegut
 - _A Handful of Dust_ by Evelyn Waugh
