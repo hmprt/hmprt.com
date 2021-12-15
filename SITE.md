@@ -34,7 +34,7 @@
 - _The King James Bible_
 
 ## Where am I currently?
-- Playa del Carmen, Mexico
+- Norwich, United Kingdom
 
 ## Other links
 [Opensea](https://opensea.io/hmprt)
