@@ -11,7 +11,7 @@
 - Python, C++, Rust, SPARQL, TypeQL, bash, 
 
 ### Libraries:
-- spacy, huggingface, web3py, rdflib, pytorch, nltk, tensorflow, FASTApi, selenium, beautifulsoup
+- spacy, huggingface, web3py, rdflib, pytorch, nltk, tensorflow, FASTApi, selenium, beautifulsoup, elasticsearch, farm-haystack, truffle
 
 ### Tooling:
 - linux, vim, eternal terminal, iTerm2, tmux, magnet
