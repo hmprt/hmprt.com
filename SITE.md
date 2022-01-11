@@ -3,7 +3,7 @@
 - I'm also a musician, writer, founder and serial dropout.
 
 ## What am I doing at the minute?
-- Co-founder and CTO at [Atomic Search](https://atomicsear.ch), where we're building real time terminals for NFT traders.
+- Co-founder and CTO at a venture-backed startup in the web3.
 - In my spare time, I work on projects for NFTs, generative art and developer tooling. You can find my [github profile](https://github.com/hmprt) here.
 
 ## What are my technical proficiencies?
@@ -16,13 +16,6 @@
 ### Tooling:
 - linux, vim, eternal terminal, iTerm2, tmux, magnet
 
-## Why is my username unpronouncable?
-- It's a strictly consonant contraction of my full name. You can pronounce it _hump-ert_.
-- This is less a privacy concern than a stylistic one. Extensive biographic information of me is floating around on the internet, if you know where to look.
-
-## When writing?
-- Soon
-
 ## Writings which inspire me
 - _Desolation Row_ by Bob Dylan
 - _Blood Meridian_ by Cormac McCarthy
@@ -33,9 +26,10 @@
 - _The Three Body Problem_ by Liu Cixin
 - _The King James Bible_
 
-## Where am I currently?
-- Norwich, United Kingdom
 
 ## Other links
 [Opensea](https://opensea.io/hmprt)
 [Twitter](https://twitter.com/hmprt_)
+
+## Contact
+- Contact me at me@hmprt.com
