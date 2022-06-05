@@ -1,25 +1,25 @@
 # Who am I?
-- A British computer programmer with interests in NLP, applied ontology, symbolic systems, web3, generative art and complex emergent systems.
-- I'm also a musician, writer, founder and serial dropout.
+- A British programmer, founder, musician, writer and serial dropout.
 
-## What am I doing at the minute?
-- Co-founder and CTO at a venture-backed startup in the web3.
-- In my spare time, I work on projects for NFTs, generative art and developer tooling. You can find my [github profile](https://github.com/hmprt) here.
+## What do I do?
+- I'm a cofounder and CTO at [**NFT Exchange Club**](https://nxc.io)
+- I program in my free time, working on NLP, generative art and web3 projects.
 
-## What are my technical proficiencies?
+## What am I good at?
 ### Languages:
-- Python, C++, Rust, SPARQL, TypeQL, bash, 
+- Python, C++, Java, Javascript, SPARQL, TypeQL, bash
 
 ### Libraries:
-- spacy, huggingface, web3py, rdflib, pytorch, nltk, tensorflow, FASTApi, selenium, beautifulsoup, elasticsearch, farm-haystack, truffle
+- spacy, huggingface, web3py, rdflib, pytorch, nltk, tensorflow, FASTApi, selenium, beautifulsoup, elasticsearch, farm-haystack, truffle, click
 
 ### Tooling:
 - linux, vim, eternal terminal, iTerm2, tmux, magnet
 
-## Writings which inspire me
+## Words I like
 - _Desolation Row_ by Bob Dylan
 - _Blood Meridian_ by Cormac McCarthy
 - _Sirens of Titen_, _Player Piano_, _Slaughterhouse Five_ by Kurt Vonnegut
+- _The Waste Land_, by T.S. Eliot
 - _A Handful of Dust_ by Evelyn Waugh
 - _The Sound and the Fury_ by William Faulker
 - _Hamlet_ by Shakespeare
@@ -27,9 +27,6 @@
 - _The King James Bible_
 
 
-## Other links
-[Opensea](https://opensea.io/hmprt)
-[Twitter](https://twitter.com/hmprt_)
-
 ## Contact
-- Contact me at me@hmprt.com
+- me@hmprt.com
+- https://twitter.com/hmprt_
