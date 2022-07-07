@@ -1,8 +1,8 @@
 # Who am I?
-- A British programmer, founder, musician, writer and serial dropout.
+- A British programmer, founder, musician, writer, emigrant, dancer and serial dropout.
 
 ## What do I do?
-- I'm a cofounder and CTO at [**NFT Exchange Club**](https://nxc.io)
+- I'm a cofounder and CTO at a web3 company near you
 - I program in my free time, working on NLP, generative art and web3 projects.
 
 ## What am I good at?
