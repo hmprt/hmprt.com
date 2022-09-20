@@ -1,14 +1,13 @@
 // let resolution be a random number between 10 and 70
 
-let RESOLUTION = randint(8, 20)
+let RESOLUTION = randint(8, 12)
 
 let CANVAS = document.getElementById('canvas');
 let FRAMERATE = 120
-let DEFAULT_LIFETIME = randint(30, 200)
-let CHROMATIC_ABERRANCE_FACTOR = Math.random() * 0.035
-let BACKGROUND_COLOR = randomHex()
-let CELL_COLOR = randomHex()
-BACKGROUND_VOLATILITY = Math.random() * 0.02
+let DEFAULT_LIFETIME = randint(15, 600)
+let CHROMATIC_ABERRANCE_FACTOR = 0.000
+let BACKGROUND_COLOR = "#C16E70"
+let CELL_COLOR = "#F2F3D9"
 
 mouse_x = 0;
 mouse_y = 0;
@@ -228,7 +227,6 @@ async function main(grid, debug = false) {
         CANVAS.getContext('2d').clearRect(
             0, 0, CANVAS.width, CANVAS.height
         )
-        BACKGROUND_COLOR = weightedMix(BACKGROUND_COLOR, randomHex(), 1 - BACKGROUND_VOLATILITY);
     }
 }
 init_canvas()
