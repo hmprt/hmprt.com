@@ -1,4 +1,4 @@
-let RESOLUTION = 5;
+let RESOLUTION = 7; 
 
 let CANVAS = document.getElementById("canvas");
 let FRAMERATE = 60;
@@ -10,7 +10,7 @@ let DEFAULT_SEED = shuffle([
   "010",
   "Harvey Pratt",
   "001",
-  "hmprt",
+  "100",
   "010010000221",
 ])[0];
 console.log(DEFAULT_SEED);
