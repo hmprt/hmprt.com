@@ -1,4 +1,4 @@
-let RESOLUTION = 7; 
+let RESOLUTION = 10;
 
 let CANVAS = document.getElementById("canvas");
 let FRAMERATE = 60;
