@@ -6,13 +6,7 @@ let DEFAULT_LIFETIME = 250;
 let PALLETTE = PALLETTES[Math.floor(Math.random() * PALLETTES.length)];
 
 // SEEDS
-let DEFAULT_SEED = shuffle([
-  "010",
-  "Harvey Pratt",
-  "001",
-  "100",
-  "010010000221",
-])[0];
+let DEFAULT_SEED = "100";
 console.log(DEFAULT_SEED);
 
 // The probability that a cell will decay this step
